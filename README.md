@@ -1,7 +1,7 @@
 <div align="center">
 
 
-# 📜 Java | Notes and Assignment | 5nd Semester
+# 📜 Java | Notes and Assignment | 5th Semester
 
 ![GitHub](https://img.shields.io/github/license/zmercury/fifth-java?style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/zmercury/fifth-java?style=for-the-badge)
