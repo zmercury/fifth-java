@@ -1,2 +1,2 @@
 # fifth-java
-Java Notes of Fifth Semester | BICTE | Bachelor in Information Technology Communication 
+Java Notes of Fifth Semester| Bachelor in Information Technology Communication 
