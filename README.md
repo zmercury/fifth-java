@@ -8,21 +8,21 @@
 
 </div>
 
-<!-- ### Latest Assignment of Dec 14 & 15 - [👉 Click Here](/Assignment/) -->
+<!-- ### Latest Assignment - [👉 Click Here](/Assignment/) -->
 ### Latest Note - [👉 Click Here](#)
 ## Table of Content
 
-### 1. [Basic Input & Output](/Basic_IO/)
+### 1. [Basic Input & Output](/Java/Basic_IO/)
 |S.N.|Content|Link|
 |:-:|---------|:---------:|
-|1|Print String|[Click Here](/Basic_IO/printString.java)|
-|2|Add two numbers|[Click Here](/Basic_IO/addNum.java)|
-|3|User Input String|[Click Here](/Basic_IO/userInputString.java)|
-|4|Add user input numbers|[Click Here](/Basic_IO/addUserInputNumbers.java)|
+|1|Print String|[Click Here](/Java/Basic_IO/printString.java)|
+|2|Add two numbers|[Click Here](/Java/Basic_IO/addNum.java)|
+|3|User Input String|[Click Here](/Java/Basic_IO/userInputString.java)|
+|4|Add user input numbers|[Click Here](/Java/Basic_IO/addUserInputNumbers.java)|
 
-### 2. [Class & Object](/Basic_IO_Class_Object/)
+### 2. [Class & Object](/Java/Basic_IO/_Class_Object/)
 |S.N.|Content|Link|
 |:-:|---------|:---------:|
-|1|Hello World using Class & Object|[Click Here](/Basic_IO_Class_Object/HelloWorld.java)|
-|2|Add two numbers using Class & Object|[Click Here](/Basic_IO_Class_Object/AddTwoNums.java)|
-|3|Class Outside Main Class & using object to access it|[Click Here](/Basic_IO_Class_Object/ClassOutsideMain.java)|
+|1|Hello World using Class & Object|[Click Here](/Java/Basic_IO/_Class_Object/HelloWorld.java)|
+|2|Add two numbers using Class & Object|[Click Here](/Java/Basic_IO/_Class_Object/AddTwoNums.java)|
+|3|Class Outside Main Class & using object to access it|[Click Here](/Java/Basic_IO/_Class_Object/ClassOutsideMain.java)|
