@@ -19,6 +19,9 @@
 |2|Add two numbers|[Click Here](/Java/Basic_IO/addNum.java)|
 |3|User Input String|[Click Here](/Java/Basic_IO/userInputString.java)|
 |4|Add user input numbers|[Click Here](/Java/Basic_IO/addUserInputNumbers.java)|
+|5|Find the area of rectriangle|[Click Here](/Java/Basic_IO/areaRectriangle.java)|
+|6|Simple Interest|[Click Here](/Java/Basic_IO/simpleInterest.java)|
+|7|Area of Circle|[Click Here](/Java/Basic_IO/areaCircle.java)|
 
 ### 2. [Class & Object](/Java/Basic_IO/_Class_Object/)
 |S.N.|Content|Link|
