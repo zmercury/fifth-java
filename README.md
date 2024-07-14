@@ -25,6 +25,8 @@
 |4|Add user input numbers|[Click Here](/Basic_IO/addUserInputNumbers.java)|
 
 ### 2. [Class & Object](/Basic_IO_Class_Object/)
+|S.N.|Content|Link|
+|:-:|---------|:---------:|
 |1|Hello World using Class & Object|[Click Here](/Basic_IO_Class_Object/HelloWorld.java)|
 |2|Add two numbers using Class & Object|[Click Here](/Basic_IO_Class_Object/AddTwoNums.java)|
 |3|Class Outside Main Class & using object to access it|[Click Here](/Basic_IO_Class_Object/ClassOutsideMain.java)|
