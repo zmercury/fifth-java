@@ -22,10 +22,11 @@
 |5|Find the area of rectriangle|[Click Here](/Java/Basic_IO/areaRectriangle.java)|
 |6|Simple Interest|[Click Here](/Java/Basic_IO/simpleInterest.java)|
 |7|Area of Circle|[Click Here](/Java/Basic_IO/areaCircle.java)|
+|8|Area of Square|[Click Here](/Java/Basic_IO/areaSquare.java)|
 
 ### 2. [Class & Object](/Java/Basic_IO/_Class_Object/)
 |S.N.|Content|Link|
 |:-:|---------|:---------:|
-|1|Hello World using Class & Object|[Click Here](/Java/Basic_IO/_Class_Object/HelloWorld.java)|
-|2|Add two numbers using Class & Object|[Click Here](/Java/Basic_IO/_Class_Object/AddTwoNums.java)|
-|3|Class Outside Main Class & using object to access it|[Click Here](/Java/Basic_IO/_Class_Object/ClassOutsideMain.java)|
+|1|Hello World using Class & Object|[Click Here](/Java/Basic_IO_Class_Object/HelloWorld.java)|
+|2|Add two numbers using Class & Object|[Click Here](/Java/Basic_IO_Class_Object/AddTwoNums.java)|
+|3|Class Outside Main Class & using object to access it|[Click Here](/Java/Basic_IO_Class_Object/ClassOutsideMain.java)|
